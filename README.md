@@ -1,5 +1,7 @@
-powerline
+Powerline
 =========
+
+Note: This repo was forked from https://goo.gl/oyACIZ and custom a little bit.
 
 Emacs version of the Vim powerline.
 
